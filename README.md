@@ -1,4 +1,4 @@
-# <Francis Corpuz>'s Personal Website
+# Francis Corpuz's Personal Website
 This is a personal website built using the Hack4Impact Starter Pack!
 <Coding is fun!>
 [Visit it Here!](https://francis-corpuz.github.io)
