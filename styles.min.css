@@ -71,7 +71,3 @@ main {
   height: 2.5rem;
 }
 
-/*attemping to center resume links at top to center*/
-div .resume-links {
-  justify-content: center;
-}
