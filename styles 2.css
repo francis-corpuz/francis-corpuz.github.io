@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  background: var(--cg-grey);
+  background: var(--cg-green);
   position: relative;
   min-height: 100vh;
   padding: 0;
@@ -81,6 +81,7 @@ body {
 }
 
 main {
+  color: rgb(243, 243, 243);
   padding: 0 20px 40px 20px;
   display: flex;
   flex-direction: column;
@@ -127,7 +128,7 @@ main {
 
 .project-details {
   display: flex;
-  background-color: var(--cg-white);
+  background-color: rgb(0, 89, 22);
   width: 30%;
   height: 500px;
   flex-shrink: 1;
@@ -171,12 +172,19 @@ main {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 20px;
-  background-color: #f8f8f8;
+  padding: 40px;
+  background-color: rgb(0, 89, 22);
   border: 1px solid #ccc;
-  border-radius: 5px;
+  border-radius: 50px;
   /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
 }
+
+/*trying to make index.html more interactive
+.about-text a:active {
+   font-size: 30px;
+}
+*/
+
 
 .about-image img {
   max-width: 300px;
